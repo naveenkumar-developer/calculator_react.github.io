@@ -9,6 +9,7 @@
     max-width: 500px;
     display: grid;
     place-content: center;
+      background-color: hsl(208, 100%, 97%);
   }
   
   /* calculator container */
